@@ -22,8 +22,8 @@ mathjax: true
   - `void print(char c)` 输出，并以参数 `c` 结尾，如果 `c` 为 `?` 则不输出任何字符
   - `void dzero()` 删除前导零
   - `void chzero()` 把 $$-0$$ 变成 $$0$$
-  - `void ass(int n)` 把 `BitInt` 赋值为 `int`
-  - `void astr(string s)` 把 `BigInt` 赋值为 `string`
+  - `void ass(int n)` 用 `int` 赋值给 `BigInt`
+  - `void astr(string s)` 用 `string` 赋值给 `BigInt`
 - `BigInt ass(int n)` 将 `int` 转换为 `BigInt`
 - `BigInt astr(string s)` 将 `string` 转换为 `BigInt`
 - `BigInt oppo(BigInt a)` 返回 $$a$$ 的相反数 
@@ -97,7 +97,7 @@ struct BigInt{
 			}
 		}
 	}
-	void ass(int n){ // 将 BigInt 赋值为 int 
+	void ass(int n){ // 用 int 赋值给 BigInt 
 		clear();
 		if(n<0){
 			f=1;
@@ -112,7 +112,7 @@ struct BigInt{
 		}
 		return;
 	}
-	void astr(string s){ // 将 BigInt 赋值为 string 
+	void astr(string s){ // 用 string 赋值给 BigInt 
 		clear();
 		if(s[0]=='-'){
 			f=1;
