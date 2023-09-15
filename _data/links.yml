@@ -1,0 +1,64 @@
+- name: 码志
+  url: http://mazhuang.org
+  src: life
+
+- name: I_like_magic
+  url: https://lanruixiang.github.io/
+  src: life
+
+- name: lianchanghua
+  url: https://Lch2010.github.io/
+  src: life
+  
+- name: Nathan3122
+  url: https://nathan3122.github.io/
+  src: life
+
+- name: Cg1340
+  url: https://cg1340.github.io/
+  src: life
+  
+- name: 洛谷
+  url: https://www.luogu.com.cn
+  src: www
+
+- name: Github
+  url: https://github.com
+  src: www
+
+- name: Bilibili
+  url: https://www.bilibili.com/
+  src: www
+
+- name: VSCode
+  url: https://code.visualstudio.com/
+  src: www
+
+- name: bilibili
+  url: https://www.bilibili.com
+  src: www
+
+- name: NOI
+  url: https://www.noi.cn/
+  src: www
+
+- name: OI Wiki
+  url: https://oi-wiki.org
+  src: www
+
+- name: OIso
+  url: https://www.oiso.cf
+  src: www
+
+- name: python
+  url: https://www.python.org/
+  src: www
+
+- name: 163mail
+  url: https://mail.163.com/
+  src: www
+
+- name: sourceforge
+  url: https://sourceforge.net
+  src: www
+
