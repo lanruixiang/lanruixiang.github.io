@@ -7,7 +7,7 @@ keywords: GitHub, 2FA, 强制要求
 mathjax: true
 ---
 
-<https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication>
+[链接](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)
 
 GitHub 要求用户在今年年底之前开启双身份验证
 
