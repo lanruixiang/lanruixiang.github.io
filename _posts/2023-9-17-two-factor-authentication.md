@@ -7,8 +7,6 @@ keywords: GitHub, 2FA, 强制要求
 mathjax: true
 ---
 
-[链接](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)
-
 GitHub 要求用户在今年年底之前开启双身份验证
 
 我认为这样做虽然让账号更安全，但是很浪费时间
@@ -26,3 +24,5 @@ GitHub 要求用户在今年年底之前开启双身份验证
 > * Change your phone number
 
 所以，如果发生了以上的意外，并且丢失了恢复代码，那么，你的 GitHub 账号就废掉了
+
+[链接](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)
