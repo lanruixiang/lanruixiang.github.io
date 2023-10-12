@@ -33,8 +33,8 @@ mathjax: true
 
 以上内容来自洛谷帖子：<https://www.luogu.com.cn/discuss/671256>
 
-[![](/images/posts/luogu-tj-shenhe/1.jpg)](/images/posts/luogu-tj-shenhe/1.jpg)
+![](/images/posts/luogu-tj-shenhe/1.jpg)
 
-[![](/images/posts/luogu-tj-shenhe/2.jpg)](/images/posts/luogu-tj-shenhe/2.jpg)
+![](/images/posts/luogu-tj-shenhe/2.jpg)
 
-[![](/images/posts/luogu-tj-shenhe/3.jpg)](/images/posts/luogu-tj-shenhe/3.jpg)
+![](/images/posts/luogu-tj-shenhe/3.jpg)

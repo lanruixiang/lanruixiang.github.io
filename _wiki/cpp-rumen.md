@@ -210,7 +210,7 @@ int main(){ //主函数
 
 写程序时，我们经常遇到这样的情况：
 
-[![](/images/wiki/cpp-rumen/liuchengtu.png)](/images/wiki/cpp-rumen/liuchengtu.png)
+![](/images/wiki/cpp-rumen/liuchengtu.png)
 
 那么怎么用 C++ 代码实现呢？
 
@@ -229,7 +229,7 @@ if(a<b){
 
 但如果要这种情况呢？
 
-[![](/images/wiki/cpp-rumen/liuchengtu2.png)](/images/wiki/cpp-rumen/liuchengtu2.png)
+![](/images/wiki/cpp-rumen/liuchengtu2.png)
 
 聪明的朋友已经想到，可以这样实现：
 

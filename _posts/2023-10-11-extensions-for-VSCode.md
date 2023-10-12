@@ -9,7 +9,7 @@ mathjax: true
 
 以下是一些好用的 VSCode 插件推荐：
 
-#### 1.[background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)
+#### 1. [background-cover](https://marketplace.visualstudio.com/items?itemName=manasxx.background-cover)
 
 如果你嫌 VSCode 的纯色页面难看，那么这个插件很适合你。
 
@@ -17,9 +17,9 @@ mathjax: true
 
 效果：
 
-[![](/images/posts/extensions-for-VSCode/1.png)](/images/posts/extensions-for-VSCode/1.png)
+![](/images/posts/extensions-for-VSCode/1.png)
 
-#### 2.[Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
+#### 2. [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)
 
 这是一个能让你查看本地历史代码的神器。
 
@@ -29,12 +29,12 @@ mathjax: true
 
 当我们需要查看之前版本时，只需要点击一下对应的文件即可。
 
-[![](/images/posts/extensions-for-VSCode/2.png)](/images/posts/extensions-for-VSCode/2.png)
+![](/images/posts/extensions-for-VSCode/2.png)
 
-#### 3.[Codelf](https://marketplace.visualstudio.com/items?itemName=unbug.codelf)
+#### 3. [Codelf](https://marketplace.visualstudio.com/items?itemName=unbug.codelf)
 
 还在为起变量名发愁吗？
 
 那就使用这款变量起名神器。
 
-[![](/images/posts/extensions-for-VSCode/3.png)](/images/posts/extensions-for-VSCode/3.png)
+![](/images/posts/extensions-for-VSCode/3.png)
