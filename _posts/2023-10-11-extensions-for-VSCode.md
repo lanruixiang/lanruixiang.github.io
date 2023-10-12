@@ -38,3 +38,5 @@ mathjax: true
 那就使用这款变量起名神器。
 
 ![](/images/posts/extensions-for-VSCode/3.png)
+
+#### 时间不够，明天继续写
