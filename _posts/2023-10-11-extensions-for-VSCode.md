@@ -49,7 +49,7 @@ mathjax: true
 
 [Link](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
-美化注释，可以将我们的多行注释按照类别自动高亮。
+美化注释，可以将我们的注释按照类别自动高亮。
 
 ![](/images/posts/extensions-for-VSCode/4.png)
 
