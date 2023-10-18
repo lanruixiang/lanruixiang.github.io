@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: solution
 title: Luogu CF400C 题解
 categories: Luogu
 description: 原题解链接：https://www.luogu.com.cn/blog/I-like-magic/solution-cf400c
