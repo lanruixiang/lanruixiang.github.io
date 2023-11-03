@@ -18,8 +18,6 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 友情链接
-
 <ul>
 {% for link in site.data.links %}
   {% if link.src == 'www' %}
