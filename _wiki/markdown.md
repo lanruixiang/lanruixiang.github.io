@@ -343,11 +343,11 @@ int main(){
 
 格式：`![图片描述](图片地址)`
 
-比如：`![114514.jpg](https://img1.imgtp.com/2023/08/23/NBDQYdIy.jpg)`
+比如：`![114514.jpg](https://z1.ax1x.com/2023/11/03/piMyjGd.jpg)`
 
 显示效果：
 
-![114514.jpg](https://img1.imgtp.com/2023/08/23/NBDQYdIy.jpg)
+![114514.jpg](https://z1.ax1x.com/2023/11/03/piMyjGd.jpg)
 
 ## 表格
 
