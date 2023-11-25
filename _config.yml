@@ -152,14 +152,14 @@ gitment:
     owner: lanruixiang
     repo: blog-comments
     oauth:
-        client_id: 8792c87e5d02d15de888
-        client_secret: 0547b9c94e09df3b98bfee7ac0974ccd6e582178
+        client_id: ae9e23e04b4677901086
+        client_secret: f0061ede1869ff7ca720da91ba61b2f4477bb5a7
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
     owner: lanruixiang
     repo: blog-comments
-    clientID: 8792c87e5d02d15de888
-    clientSecret: 0547b9c94e09df3b98bfee7ac0974ccd6e582178
+    clientID: ae9e23e04b4677901086
+    clientSecret: f0061ede1869ff7ca720da91ba61b2f4477bb5a7
 # utterances 配置参考：https://utteranc.es/
 utterances:
     repo: lanruixiang/blog-comments
@@ -169,9 +169,9 @@ beaudar:
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
     repo: lanruixiang/blog-comments
-    repo-id: R_kgDOKFjoYw
+    repo-id: R_kgDOKx4mww
     category: Announcements
-    category-id: DIC_kwDOKFjoY84CYgpT
+    category-id: DIC_kwDOKx4mw84CbPTy
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
