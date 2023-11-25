@@ -325,7 +325,7 @@ int main(){
 
 [文字排版](/wiki/type-habit/)
 
-因为这个链接是在 <https://lanruixiang.github.io> 中调用的，所以它指向 <https://lanruixiang.github.io/wiki/type-habit/>
+因为这个链接是在 <https://lanruixiang.com> 中调用的，所以它指向 <https://lanruixiang.com/wiki/type-habit/>
 
 ---
 
@@ -333,11 +333,11 @@ int main(){
 
 你可以使用：`<地址>`
 
-`<https://lanruixiang.github.io>`
+`<https://lanruixiang.com>`
 
 效果：
 
-<https://lanruixiang.github.io>
+<https://lanruixiang.com>
 
 ## 图片
 
