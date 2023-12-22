@@ -1,3 +1,13 @@
+---
+layout: page
+title: Game
+description: 打码改变世界
+keywords: Lanruixiang
+comments: true
+menu: Game
+permalink: /game/
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
