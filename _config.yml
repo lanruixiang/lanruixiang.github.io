@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lanruixiang.com
+url: https://lanruixiang.github.io
 date_format: "ordinal"
 title: lanruixiang
 subtitle: "I_like_magic"
